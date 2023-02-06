@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Creator: CorelDRAW X8 -->
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="146.519mm" height="100.062mm" version="1.1" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd"
+viewBox="0 0 14652 10006"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <font id="FontID0" horiz-adv-x="657" font-variant="normal" style="fill-rule:nonzero" font-style="normal" font-weight="600">
+	<font-face 
+		font-family="Regave DemiBold">
+		<font-face-src>
+			<font-face-name name="Regave DemiBold"/>
+		</font-face-src>
+	</font-face>
+   <missing-glyph><path d="M0 0z"/></missing-glyph>
+   <glyph unicode="R" horiz-adv-x="654" d="M72.9993 0l131.999 0 0 226 160.002 0 143 -226 111.999 0 0 96.9987 -130.998 159.001c67.9992,18.9994 114.997,80.001 114.997,155.999 0,114.001 -75.9977,199.002 -190.999,200.002l-340 0 0 -612.001zm131.999 327.002l0 173.997 181.003 0c53.9998,0 84.997,-38.9997 84.997,-86.9986 0,-47.999 -30.9971,-86.9986 -84.997,-86.9986l-181.003 0z"/>
+   <glyph unicode="O" horiz-adv-x="712" d="M361.001 -12.9985c218.998,0 328.999,140.998 328.999,318.999 0,178.001 -111.002,318.999 -332.998,318.999 -223.001,0 -334.003,-140.998 -334.003,-318.999 0,-178.001 111.002,-318.999 338.002,-318.999zm-3.99924 114.997c-123.004,0 -197,91.0019 -197,204.002 0,111.999 73.996,203.998 197,203.998 120.998,0 195.999,-91.9987 195.999,-203.998 0,-113 -75.0009,-204.002 -195.999,-204.002z"/>
+   <glyph unicode="T" horiz-adv-x="557" d="M213.001 0l131.999 0 0 502 202 0 0 110.001 -537 0 0 -110.001 203.001 0 0 -502z"/>
+   <glyph unicode="N" horiz-adv-x="774" d="M72.9993 0l131.999 0 0 352.002 -20.997 125.998 15.9969 0 309.003 -478 192 0 0 612.001 -132.003 0 0 -353.003 21.0011 -125.998 -16.001 0 -307.998 479.001 -193.001 0 0 -612.001z"/>
+   <glyph unicode="K" horiz-adv-x="677" d="M72.9993 0l131.999 0 0 252.001 111.002 0 223.998 -252.001 115.001 0 0 96.9987 -220.999 210.999 208.001 206.003 0 97.9996 -113 0 -213.001 -253.001 -111.002 0 0 253.001 -131.999 0 0 -612.001z"/>
+   <glyph unicode="E" horiz-adv-x="588" d="M72.9993 0l491.999 0 0 110.001 -360.997 0 0 156.999 215.999 0 0 95.9979 -215.999 0 0 139.001 360.997 0 0 110.001 -491.999 0 0 -612.001z"/>
+  </font>
+  <style type="text/css">
+   <![CDATA[
+    @font-face { font-family:"Regave DemiBold";font-variant:normal;font-style:normal;font-weight:600;src:url("#FontID0") format(svg)}
+    .fil1 {fill:#019BCD}
+    .fil2 {fill:#454D50}
+    .fil0 {fill:#FE7D05}
+    .fnt0 {font-weight:600;font-size:2457.97px;font-family:'Regave DemiBold'}
+   ]]>
+  </style>
+ </defs>
+ <g id="Camada_x0020_1">
+  <metadata id="CorelCorpID_0Corel-Layer"/>
+  <polygon class="fil0" points="3767,7118 5952,7118 5952,4651 8418,4651 8418,2467 5952,2467 5952,0 3767,0 "/>
+  <polygon class="fil1" points="8700,2326 8700,4651 10885,4651 10885,0 6234,0 6234,2184 8700,2184 "/>
+  <polygon class="fil1" points="10885,4933 6234,4933 6234,7118 10885,7118 "/>
+  <g id="_1872441994624">
+   <text x="-179" y="9974"  class="fil2 fnt0">K</text>
+   <text x="1431" y="9974"  class="fil2 fnt0">O</text>
+   <text x="3183" y="9974"  class="fil2 fnt0">N</text>
+   <text x="5086" y="9974"  class="fil2 fnt0">E</text>
+   <g transform="matrix(-1 -0 0 1 15566.9 5041.73)">
+    <text x="7326" y="4933"  class="fil2 fnt0">K</text>
+   </g>
+   <text x="8197" y="9974"  class="fil2 fnt0">T</text>
+   <text x="9566" y="9974"  class="fil2 fnt0">R</text>
+   <text x="11176" y="9974"  class="fil2 fnt0">O</text>
+   <text x="12929" y="9974"  class="fil2 fnt0">N</text>
+  </g>
+ </g>
+</svg>
