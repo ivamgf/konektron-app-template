@@ -1,0 +1,49 @@
+.section-home{
+  margin-top: 5px;
+  margin-bottom: 15px;
+}
+
+.logo{
+  padding-bottom: 8rem;
+}
+
+.card-margin{
+  margin-bottom: 3rem;
+}
+
+.card-style{
+  height: 250px;
+  margin-bottom: 3rem;
+}
+
+.card-header-style{
+  background-color: #4362AB;
+  color: #FFFFFF;
+}
+
+@media screen and (min-width: 1401px) {}
+
+@media screen and (min-width: 1201px) and (max-width: 1400px) {}
+
+@media screen and (min-width: 993px) and (max-width: 1200px) {}
+
+@media screen and (min-width: 769px) and (max-width: 992px) {}
+
+@media screen and (min-width: 577px) and (max-width: 768px) {
+  .logo{
+    padding-bottom: 11rem;
+    width: 100%;
+  }
+}
+
+@media screen and (max-width: 576px) {
+  .logo{
+    padding-bottom: 11rem;
+    width: 100%;
+  }
+  .card-img-style{
+    width: 100%;
+    height: 100%;
+  }
+}
+
