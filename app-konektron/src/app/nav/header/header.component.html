@@ -1,0 +1,52 @@
+<nav class="navbar " style="background-color: #4362AB;">
+  <div class="container-fluid">
+    <a class="navbar-brand" href="#">
+      <img src="assets/images/logo.svg" alt="Logo konektron" width="81" height="29">
+    </a>
+    <button
+      class="navbar-toggler"
+      type="button"
+      data-bs-toggle="offcanvas"
+      data-bs-target="#offcanvasNavbar"
+      aria-controls="offcanvasNavbar"
+    >
+      <img src="assets/images/list.svg" alt="Botão menu">
+    </button>
+    <div
+      class="offcanvas offcanvas-end"
+      style="background-color: #4362AB;"
+      tabindex="-1" id="offcanvasNavbar"
+      aria-labelledby="offcanvasNavbarLabel"
+    >
+      <div class="offcanvas-header">
+        <h5 class="offcanvas-title" id="offcanvasNavbarLabel" style="color: #FFFFFF;">Menu</h5>
+        <button type="button" class="btn-close" data-bs-dismiss="offcanvas" aria-label="Close"></button>
+      </div>
+      <div>
+        <hr style="color: #FFFFFF;">
+      </div>
+      <div class="offcanvas-body">
+        <ul class="navbar-nav justify-content-end flex-grow-1 pe-3">
+          <li class="nav-item">
+            <a class="nav-link active" aria-current="page" href="#" routerLink="pages/home" data-bs-dismiss="offcanvas" style="color: #FFFFFF;">Home</a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link" href="#" routerLink="about" data-bs-dismiss="offcanvas" style="color: #FFFFFF;">About</a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link" href="#" routerLink="products" data-bs-dismiss="offcanvas" style="color: #FFFFFF;">Products</a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link" href="#" routerLink="services" data-bs-dismiss="offcanvas" style="color: #FFFFFF;">Services</a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link" href="#" routerLink="terms" data-bs-dismiss="offcanvas" style="color: #FFFFFF;">Terms</a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link" href="#" routerLink="contacts" data-bs-dismiss="offcanvas" style="color: #FFFFFF;">Contatos</a>
+          </li>
+        </ul>
+      </div>
+    </div>
+  </div>
+</nav>
